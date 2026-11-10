@@ -1,0 +1,1 @@
+Before summarizing participant ages, check for missing, nonnumeric, and implausible age values. Define a reasonable age range based on the study population and eligibility criteria, and flag values outside that range for review before calculating summary statistics.
